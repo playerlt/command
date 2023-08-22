@@ -2,6 +2,6 @@ package command
 
 type User struct {
 	Name string
-	Friends2  int
-	Sex int
+	Friends3  int
+	Sex2 int
 }
